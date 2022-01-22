@@ -1,0 +1,2 @@
+# Pipe_network_design_using_PYTHON
+Título: Diseño de redes de tuberías usando PYTHON. Lenguaje de programación: Python. Descripción: El objetivo fue diseñar una interfaz gráfica mediante PyQt que permita la conexión con Epanettools y llevar a cabo el diseño de una red de tuberías presurizadas, con el enfoque de velocidad permisible. La interfaz usa funciones personalizadas escritas en Python que le permite hacer una selección óptima de tuberías, evaluar y analizar en toda la red parámetros de velocidad, presión, y pérdidas de carga mediante gráficas.
